@@ -14,10 +14,10 @@
 
 ## Features
 
-- ✔️ Cross-platform (Linux, Windows),
-- ✔️ Easy to use,
-- ✔️ Pretty interface,
-- ✔️ & More ...
+- Cross-platform (Linux, Windows),
+- Easy to use,
+- Pretty interface,
+- & More ...
 
 
 ## Requirements
