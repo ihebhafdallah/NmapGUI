@@ -10,9 +10,8 @@
 
 ## Preview
 
-<div align="center">
 ![Home Page](Preview.gif)
-</div>
+
 
 ## Features
 
