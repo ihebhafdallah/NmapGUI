@@ -30,7 +30,7 @@ A prerequisite is that you have Nmap installed on your machine
 sudo apt-get install nmap
 ```
 
-2. If your operating system is Windows, Go to [Nmap download link] (https://nmap.org/download.html#windows) and download the latest stable version, Go to the location where the file is downloaded, Right-click on the EXE file and click “Run as administrator.”, It will start installing NMAP and once done and you will get confirmation.
+2. If your operating system is Windows, Go to [Nmap download link](https://nmap.org/download.html#windows) and download the latest stable version, Go to the location where the file is downloaded, Right-click on the EXE file and click “Run as administrator.”, It will start installing NMAP and once done and you will get confirmation.
 
 ## License
 
